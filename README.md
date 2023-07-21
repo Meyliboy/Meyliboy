@@ -1,5 +1,5 @@
 ### Hi there 👋
-                             ![Codewars](https://github.r2v.ch/codewars?user=Meyliboy&top_languages=true)
+<p style='text-align: center'>![Codewars](https://github.r2v.ch/codewars?user=Meyliboy&top_languages=true)</p>
 
 <!--
 **Meyliboy/Meyliboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
