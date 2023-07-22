@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![CodeWars](https://www.codewars.com/users/Meyliboy/badges/large)
+![CodeWars](https://www.codewars.com/users/Meyliboy/badges/large)
 <!--
 **Meyliboy/Meyliboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
