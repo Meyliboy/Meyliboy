@@ -1,4 +1,11 @@
-![Animated GIF](https://i.ibb.co/SBwMv3c/bg.gif)
+<!--![Animated GIF](https://i.ibb.co/SBwMv3c/bg.gif)-->
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
 <!--
 **Meyliboy/Meyliboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
