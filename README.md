@@ -1,9 +1,4 @@
 ![Animated GIF](https://i.ibb.co/SBwMv3c/bg.gif)
-
-<div style="text-align: center;">
-  <img src="https://i.ibb.co/SBwMv3c/bg.gif" alt="Alt Text">
-</div>
-
 <!--
 **Meyliboy/Meyliboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
